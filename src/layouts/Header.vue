@@ -6,8 +6,6 @@
 
     <div class="header-right">
       <a
-        href="https://github.com/oslook/vue-color-avatar"
-        target="_blank"
         rel="nofollow noopener noreferrer"
       >
         <button
