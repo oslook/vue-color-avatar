@@ -6,7 +6,7 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://avatar.oslook.com"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
